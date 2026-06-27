@@ -1,163 +1,74 @@
-````markdown
-<div align="center">
+# 👋 Hi, I'm Muhammad Junaid Sarwar
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C2FF,25:0099FF,50:7B61FF,75:00E5FF,100:00C2FF&text=Muhammad%20Junaid%20Sarwar&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Flutter%20Developer%20•%20Software%20Engineer%20•%20UI%2FUX%20Designer&descAlignY=58&animation=fadeIn"/>
+<h3 align="center">
+💙 Flutter Developer • Software Engineer • UI/UX Designer
+</h3>
 
-# 👋 Welcome to My GitHub
-
-### 💙 Building beautiful digital experiences with Flutter
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&duration=3000&pause=1000&center=true&vCenter=true&width=850&color=00C2FF&lines=Flutter+Developer;Software+Engineer;UI%2FUX+Designer;Firebase+Developer;Helping+Businesses+Grow+Online;Turning+Ideas+Into+Beautiful+Apps)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=Junaidsarwar3&label=Profile+Views&style=for-the-badge&color=00C2FF"/>
-
-</div>
-
----
-
-# 💎 About Me
-
-<img align="right" width="340" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
-
-💙 Flutter Developer passionate about creating beautiful mobile and web applications.
-
-🎨 UI/UX Designer using **Figma**
-
-🔥 Firebase Developer
-
-🌍 Flutter Web Developer
-
-🚀 Founder of **OneTech Agency**
-
-💼 Helping Businesses Grow Online.
-
-📚 Currently learning
-
-- AI Integration
-- Clean Architecture
-- CI/CD
-- Advanced Flutter
-- Scalable Backend Systems
-
----
-
-# 🚀 OneTech Agency
-
-### Helping Businesses Grow Online.
-
-We build
-
-- 📱 Mobile Apps
-- 🌐 Websites
-- 🎨 UI/UX Design
-- 📈 Digital Solutions
-- ⚙️ Custom Software
-
-🌐 https://onetech.agency
-
----
-
-# 🌐 Connect With Me
+<p align="center">
+Building fast, beautiful, and scalable mobile & web applications with Flutter.
+</p>
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/junaidsarwar3">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&weight=600\&size=26\&duration=3500\&pause=1000\&color=00C2FF\&center=true\&vCenter=true\&width=700\&lines=Flutter+Developer;Software+Engineer;UI%2FUX+Designer;Firebase+Developer;Helping+Businesses+Grow+Online)](https://git.io/typing-svg)
 
-<a href="https://github.com/Junaidsarwar3">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+</p>
 
-<a href="https://onetech.agency">
-<img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Junaidsarwar3&label=Profile%20Views&style=for-the-badge&color=0ea5e9"/>
+</p>
 
-<a href="mailto:junid@engineer.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+---
+
+# 🚀 About Me
+
+* 💙 Flutter Developer specializing in cross-platform mobile & web apps
+* 🎨 UI/UX Designer with Figma
+* 🔥 Firebase Developer
+* 🌐 Flutter Web Enthusiast
+* 🚀 Founder of **OneTech Agency**
+* 💼 Passionate about creating modern, user-friendly digital products
+* 📚 Continuously learning new technologies and best practices
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,git,github,vscode,androidstudio,cpp,java,js,html,css,mysql,sqlite,postman"/>
 
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 💼 Core Skills
+
+* 📱 Flutter Mobile Development
+* 🌐 Flutter Web Development
+* 🎨 UI/UX Design
+* 🔥 Firebase Authentication & Firestore
+* 🔗 REST API Integration
+* 📍 Google Maps Integration
+* 🔔 Push Notifications
+* 💳 Payment Gateway Integration
+* 📦 Local Storage
+* ⚡ State Management (Provider, Riverpod, GetX)
+* 🏗️ Clean Architecture
+* 📈 Performance Optimization
+* 🚀 App Deployment
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,git,github,androidstudio,vscode,cpp,java,js,html,css,mysql,sqlite,postman"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Junaidsarwar3&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junaidsarwar3&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-# ⚡ Flutter Expertise
-
-🟦 Flutter Mobile Development
-
-🟦 Flutter Web
-
-🟦 Responsive UI
-
-🟦 UI/UX Design
-
-🟦 Firebase Authentication
-
-🟦 Firestore
-
-🟦 REST APIs
-
-🟦 Riverpod
-
-🟦 Provider
-
-🟦 GetX
-
-🟦 Google Maps
-
-🟦 Push Notifications
-
-🟦 Payment Integration
-
-🟦 Local Storage
-
-🟦 App Deployment
-
-🟦 Performance Optimization
-
-🟦 Clean Architecture
-
----
-
-# 🛠 Developer Badges
-
-![](https://img.shields.io/badge/Flutter-Expert-00C2FF?style=for-the-badge&logo=flutter)
-
-![](https://img.shields.io/badge/Firebase-Developer-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-![](https://img.shields.io/badge/Figma-Designer-A259FF?style=for-the-badge&logo=figma)
-
-![](https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge)
-
-![](https://img.shields.io/badge/UI%2FUX-Designer-blueviolet?style=for-the-badge)
-
-![](https://img.shields.io/badge/Clean-Code-success?style=for-the-badge)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Junaidsarwar3&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junaidsarwar3&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -171,63 +82,61 @@ We build
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Junaidsarwar3&theme=tokyonight&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Junaidsarwar3&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🌍 Connect With Me
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Junaidsarwar3&theme=tokyo-night&hide_border=true"/>
+<a href="https://www.linkedin.com/in/junaidsarwar3">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Junaidsarwar3">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://onetech.agency">
+<img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:junid@engineer.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🚀 OneTech Agency
 
-> Enable the GitHub Action in your profile repository to generate this automatically.
+### Helping Businesses Grow Online.
 
-```html
-<img src="https://raw.githubusercontent.com/Junaidsarwar3/Junaidsarwar3/output/github-contribution-grid-snake-dark.svg"/>
-````
+We help businesses build and grow through:
 
----
+* 📱 Mobile App Development
+* 🌐 Website Development
+* 🎨 UI/UX Design
+* ⚙️ Custom Software Solutions
 
-# 📂 Featured Projects
-
-🚀 Flutter Apps
-
-🌐 Flutter Websites
-
-💼 Business Solutions
-
-🛒 Ecommerce Apps
-
-💬 Chat Applications
-
-🎨 UI/UX Projects
-
-🔥 Firebase Apps
+🌍 **https://onetech.agency**
 
 ---
 
-# 💡 Quote
+# 💡 Favorite Quote
 
-> **"Great apps aren't just built. They're crafted."**
+> **"Great software is built by solving real problems with clean code and thoughtful design."**
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for visiting!
+### ⭐ Thanks for visiting my profile!
 
-### If you like my work, consider giving a ⭐ to my repositories.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00C2FF,100:7B61FF"/>
+If you find my work helpful, consider ⭐ starring my repositories and connecting with me.
 
 </div>
-```
